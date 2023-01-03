@@ -8,6 +8,8 @@ Shows and movies can be browsed without logging in, but to view the movie page, 
 ### Video Demo of the project
 https://youtu.be/X-nP1zt8XZ0
 
+The app is live (without a database) at this link: https://movieguru-json.vercel.app/ . Code for the live version can be found at: https://github.com/derekbeistad/movieguru-json
+
 #### Home screen screenshot
 <img width="1778" alt="Screen Shot 2023-01-01 at 11 31 03 AM" src="https://user-images.githubusercontent.com/99300025/210179994-b8265743-c449-4493-8f01-ae84a278a7a9.png">
 
